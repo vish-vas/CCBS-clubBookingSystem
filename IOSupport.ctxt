@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=fileName
+comment0.target=java.util.ArrayList\ readDataFromFile(java.lang.String)
+comment1.params=fileName\ fileData
+comment1.target=void\ saveDataToFile(java.lang.String,\ java.util.ArrayList)
+comment2.params=print
+comment2.target=void\ println(java.lang.String)
+numComments=3

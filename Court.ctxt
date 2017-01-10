@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=number
+comment0.target=Court(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getCourtNumber()
+comment2.params=
+comment2.target=java.util.ArrayList\ getAllCourtBookings()
+comment3.params=tempBooking
+comment3.target=boolean\ isBookingAvailable(Booking)
+comment4.params=blockBooking
+comment4.target=java.util.ArrayList\ blockBookingHelper(Booking)
+comment5.params=newBooking
+comment5.target=java.lang.String\ addCourtBooking(Booking)
+comment6.params=oldBooking
+comment6.target=boolean\ deleteCourtBooking(Booking)
+numComments=7

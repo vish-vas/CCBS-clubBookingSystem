@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Manager()
+comment1.params=
+comment1.target=void\ makeBookingForAMember()
+comment2.params=
+comment2.target=void\ showAllMembers()
+comment3.params=memberNo
+comment3.target=void\ showMemberBookings(java.lang.String)
+comment4.params=memberNo
+comment4.target=void\ deleteMemberBooking(java.lang.String)
+comment5.params=
+comment5.target=void\ showCourtBookings()
+comment6.params=
+comment6.target=void\ showAvailableCourts()
+comment7.params=
+comment7.target=void\ makeBlockBooking()
+numComments=8
